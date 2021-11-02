@@ -18,5 +18,5 @@ Example:
 - `tokens.js` - list of fuse network tokens
 - `tokensAccess.js` - functions to access token list
 - `findPairs.js` - main script to find all pairs and export
-- `example.pairs.csv` - example CSV export
+- [`example.pairs.csv`](https://github.com/fusecrypto/fusecrypto/blob/main/scripts/findPairs/example.pairs.csv) - example CSV export
 
